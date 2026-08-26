@@ -1,8 +1,8 @@
 body {
-    background-color: #1060809c;
+    background-color: #dfe2e3fe;
     width: auto;
     font-size: small;
     text-align: center;
     border-bottom-left-radius: 2px;
-    
+    box-shadow: #dfe2e3fe;
 }
